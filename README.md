@@ -1,4 +1,4 @@
-# UPDATE: elementmod2 is made! same day the first elementmod was made lol. link: https://github.com/weirdscratch/elementmod2
+### UPDATE: elementmod2 is made! same day the first elementmod was made lol. link: https://github.com/weirdscratch/elementmod2
 
 basically this is a modded version of an old version of https://github.com/GC-Collabs/weirdscratch.github.io/tree/game-thingy/elementalthing (well, old in the future. as of right now it's pretty much up-to-date)
 
